@@ -4,6 +4,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 # Mechanism history
 
+## [Unreleased]
+### Added
+- Added HFO-1234ze(E) + OH and + O3 reactions, TFALD (CF3CHO) oxidation and photolysis, and intermediate radical chemistry per Killen et al. (2026)
+
 ## [14.5.0] - TBD
 - Added four new species ALK4N1, ALK4N2, ALK4O2, and ALK4P to address issues in ALK4 and R4N2 chemistry following Brewer et al. (2023, JGR)
 - Added ALK4N1 and ALK4N2 to Ox family in KPP
