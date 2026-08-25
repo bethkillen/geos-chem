@@ -32,13 +32,13 @@ HCO:
   FullName: formyl radical
   Is_Gas: true
   MW_g: 29.02
-HFC:
+HFC23:
   Formula: CHF3
   FullName: HFC-23
   Is_Advected: true
   Is_Gas: true
   MW_g: 70.01
-HFO:
+HFO1234zeE:
   Formula: C3H2F4
   FullName: HFO-1234ze(E)
   Is_Advected: true
