@@ -27,11 +27,6 @@ CHFO:
   FullName: formyl fluoride
   Is_Gas: true
   MW_g: 48.016
-HCO:
-  Formula: HCO
-  FullName: formyl radical
-  Is_Gas: true
-  MW_g: 29.02
 HFC23:
   Formula: CHF3
   FullName: HFC-23

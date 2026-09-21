@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 ### Added
-- Added HFO-1234ze(E) atmospheric degradation chemistry, including gas-phase and photolytic pathways and 9 associated species (Killen et al., 2026)
+- Added HFO-1234ze(E) atmospheric degradation chemistry, including gas-phase and photolytic pathways and 8 associated species (Killen et al., 2026)
 
 ## [14.7.1] - 2026-04-08
 ### Added
